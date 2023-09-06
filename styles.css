@@ -1,0 +1,40 @@
+* {
+	font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+h1 {
+	color: rgb(3, 66, 22);
+}
+
+.recipe-link {
+	font-weight: 800;	
+}
+
+.list {
+	background-color: aqua;
+}
+
+ul.list {
+	background-color: chartreuse;
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
+
+.first, .lorem {
+	background-color: blueviolet;
+}
+
+.first {
+	color: darkcyan;
+}
+
+.lorem {
+	font-weight: lighter;
+}
+
+.first.lorem {
+	color: hotpink;
+}
